@@ -16,6 +16,7 @@ input_numbers(size_t count)
     return result;
 }
 
+
 vector <size_t>
 make_histogram (const vector<double>& numbers, const size_t& number_count, const size_t& bin_count)
 {
