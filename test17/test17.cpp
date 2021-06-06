@@ -1,4 +1,4 @@
-#include "C:\Users\User\Desktop\cv\lab03\svg.h"
+#include "C:\Users\enkwi\Desktop\laba4\lab03\lb3\svg.h"
 #include <cassert>
 
 void test_bin()
