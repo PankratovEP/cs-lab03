@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1619278086 source:c:\users\user\desktop\eban\lab03\histogram.cpp
+	<vector>
+	"histogram.h"
+
+1619357181 c:\users\user\desktop\eban\lab03\histogram.h
+	<vector>
+
+1619277907 source:c:\users\user\desktop\eban\lab03\test.cpp
+	"histogram.h"
+	<cassert>
+
+1622985790 source:c:\users\enkwi\desktop\laba4\lab03\lb3\histogram.cpp
+	<vector>
+
+1622985790 source:c:\users\enkwi\desktop\laba4\lab03\lb3\test.cpp
+	"histogram.h"
+	<cassert>
+
+1622985790 c:\users\enkwi\desktop\laba4\lab03\lb3\histogram.h
+	<vector>
+
